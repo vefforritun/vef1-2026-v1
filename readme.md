@@ -1,5 +1,7 @@
 # Vefforritun 1, 2026: Verkefni 1, HTML
 
+Útgáfa 0.1
+
 ## Markmið
 
 - Setja upp textaritil og búa til möppur og skrár.
@@ -186,7 +188,9 @@ Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samta
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
 
-> Útgáfa 0.1
+---
+
+Nýjustu útgáfu af verkefni má [nálgast á GitHub](https://github.com/vefforritun/vef1-2026-v1).
 
 ## Útgáfusaga
 
