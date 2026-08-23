@@ -1,6 +1,6 @@
 # Vefforritun 1, 2026: Verkefni 1, HTML
 
-Útgáfa 0.1
+Útgáfa 0.2.
 
 ## Markmið
 
@@ -131,6 +131,15 @@ Aðeins á að setja upp formið, **engin** forritun fyrir virkni í formi með 
 - Forsíða
   - Titill: „Ferðaþjónustufyrirtækið“
   - Lýsing: „Við bjóðum upp á fjölbreytt úrval af ferðum allan ársins hring.“
+- Um síða
+  - Titill: „Um Ferðaþjónustufyrirtækið“
+  - Lýsing: „Lærðu meira um okkur og okkar starfsemi.“
+- Ferðasíða
+  - Titill: „Ferðir“
+  - Lýsing: „Skoðaðu ferðirnar okkar.“
+- Skráningarsíða
+  - Titill: „Skráning í ferð“
+  - Lýsing: „Skráðu þig í þína draumaferð.“
 
 ## Merkingarfræðileg element og validators
 
@@ -194,6 +203,7 @@ Nýjustu útgáfu af verkefni má [nálgast á GitHub](https://github.com/veffor
 
 ## Útgáfusaga
 
-| Útgáfa | Lýsing        |
-| ------ | ------------- |
-| 0.1    | Fyrsta útgáfa |
+| Útgáfa | Lýsing                                                                      |
+| ------ | --------------------------------------------------------------------------- |
+| 0.1    | Fyrsta útgáfa                                                               |
+| 0.2    | Bæta við lýsigögnum fyrir allar síður; laga innsláttarvillur í `ferdir.csv` |
