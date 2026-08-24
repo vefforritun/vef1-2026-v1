@@ -61,7 +61,7 @@ Allar síður skulu:
   - Ferðir
   - Skráning í ferð
 - Hafa fót (gögn neðst á síðunni) með upplýsingum um opnunartíma, staðsetningu og samfélagsmiðla (notum HÍ samfélagsmiðla sem hlekki), sjá [`gogn/fotur.md`](gogn/fotur.md).
-- Hafa lýsigögn skilgreind fyrir `description`, `og:title`, `og:description` og `og:image` (alltaf `myndir/sharing.jpg`). Prófið með [OpenGraph Social Previewer](https://www.opengraph.xyz/) til að sjá hvort gögn séu rétt eftir að síða er sett upp á Netlify. Sjá [`gogn/lysigogn.md`](gogn/lysigogn.md) þar sem titlar og lýsigögn fyrir allar síður eru skilgreind.
+- Hafa lýsigögn skilgreind fyrir `description`, `og:title`, `og:description` og `og:image` (veljið aðra hvora mynd úr `/myndir`). Prófið með [OpenGraph Social Previewer](https://www.opengraph.xyz/) til að sjá hvort gögn séu rétt eftir að síða er sett upp á Netlify.
 - Hafa tengil neðst í efni með textanum „Aftur á forsíðu“. Á ekki við forsíðu.
 - Hafa fyrisögn og „beint í efni“ hlekk á eftir fyrirsögn, en á undan valmynd. Hlekkur sem leyfir þeim sem nota skjálesara að sleppa við að hlusta á valmynd.
 
@@ -207,3 +207,4 @@ Nýjustu útgáfu af verkefni má [nálgast á GitHub](https://github.com/veffor
 | ------ | --------------------------------------------------------------------------- |
 | 0.1    | Fyrsta útgáfa                                                               |
 | 0.2    | Bæta við lýsigögnum fyrir allar síður; laga innsláttarvillur í `ferdir.csv` |
+| 0.3    | Uppfæra lýsigagnaleiðbeiningar; uppfærsla eftir fyrirlestur 2               |
