@@ -1,6 +1,6 @@
 # Vefforritun 1, 2026: Verkefni 1, HTML
 
-Útgáfa 0.2.
+Útgáfa 0.4.
 
 ## Markmið
 
@@ -193,9 +193,9 @@ Ekki er heimilt að nota stór mállíkön til að vinna verkefni í námskeiði
 
 ## Verkefni og einkunn
 
-Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samtals 40% af lokaeinkunn.
+Sett verða fyrir fimm minni verkefni sem gilda 3% hvert, samtals 15% af lokaeinkunn.
 
-Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
+Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 5%, samtals 10% af lokaeinkunn.
 
 ---
 
@@ -208,3 +208,4 @@ Nýjustu útgáfu af verkefni má [nálgast á GitHub](https://github.com/veffor
 | 0.1    | Fyrsta útgáfa                                                               |
 | 0.2    | Bæta við lýsigögnum fyrir allar síður; laga innsláttarvillur í `ferdir.csv` |
 | 0.3    | Uppfæra lýsigagnaleiðbeiningar; uppfærsla eftir fyrirlestur 2               |
+| 0.4    | Réttar upplýsingar um einkunn verkefna                                      |
